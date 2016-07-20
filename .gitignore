@@ -1,0 +1,6 @@
+.settings/
+build
+*.autotools
+*.cproject
+*.project
+*.id2
